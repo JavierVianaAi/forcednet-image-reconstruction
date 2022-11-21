@@ -8,3 +8,8 @@ Download the folder with the trained models of DeepGaze II and the centerbias re
 
 Store the folder with all the files in the same path as the jupyter notebooks and name as: tools_deep_gaze
 
+Further information about Deep Gaze and new versions can be found in: https://github.com/matthias-k/DeepGaze
+
+References
+
+* DeepGaze II: Kümmerer, M., Wallis, T. S. A., Gatys, L. A., & Bethge, M. (2017). Understanding Low- and High-Level Contributions to Fixation Prediction. 4789–4798.
